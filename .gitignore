@@ -1,0 +1,9 @@
+node_modules
+dist
+.vercel
+*.log
+
+# Local environment files. .env.example is committed on purpose.
+.env
+.env.*
+!.env.example
